@@ -1,0 +1,4 @@
+name = "CancerClassificationProject"
+uuid = "89a142b2-f899-417b-bfcd-47fb278ff93a"
+authors = ["LudwigBoess <lboess@usm.lmu.de>"]
+version = "0.1.0"
